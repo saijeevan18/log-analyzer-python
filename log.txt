@@ -1,0 +1,10 @@
+INFO: User logged in
+ERROR: File not found
+WARNING: Low memory
+INFO: Data saved
+ERROR: Connection failed
+ERROR
+INFO
+ERROR
+WARNING
+WARNING
