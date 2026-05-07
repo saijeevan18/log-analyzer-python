@@ -1,0 +1,11 @@
+===== LOG ANALYSIS REPORT =====
+
+Total Logs Processed = 10
+Errors = 5
+Warnings = 2
+Info = 3
+
+Most Frequent Error = ERROR: File not found
+Occurred = 3 times
+
+CRITICAL ALERT: Too many errors detected!

@@ -3,8 +3,8 @@ ERROR: File not found
 WARNING: Low memory
 INFO: Data saved
 ERROR: Connection failed
-ERROR
-INFO
-ERROR
-WARNING
-WARNING
+ERROR: File not found
+INFO: User logged in
+ERROR: Database failed
+WARNING: Low memory
+ERROR: File not found
